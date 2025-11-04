@@ -20,7 +20,7 @@ Proveer una documentación centralizada, clara y detallada de los tres component
 | Lisandro Juncos Varalda         | [@Lisandro-05](https://github.com/Lisandro-05) |
 | Paola Natalia Alejandra Pantoja | [@PaolaaPantoja](https://github.com/PaolaaPantoja) |
 | Tiziano Paez                    | [@tpaez](https://github.com/tpaez) |
-| María Lilen Guzmán              | [@lilenguzman01](https://github.com/lilenguzman01) |
+|             |  |
 | Juan Diego Gonzalez Antoniazzi  | [@JDGA1997](https://github.com/JDGA1997) | 
 | Diego Ezequiel Ares             | [@diegote7](https://github.com/diegote7) |    
 ## 📂 Estructura del repositorio
